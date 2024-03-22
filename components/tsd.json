@@ -1,0 +1,57 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "threejs/three.d.ts": {
+      "commit": "9f0f926a12026287b5a4a229e5672c01e7549313"
+    },
+    "dat-gui/dat-gui.d.ts": {
+      "commit": "3191f6e0088eee07c4d8fd24e4d27a40a60d9eb9"
+    },
+    "stats/stats.d.ts": {
+      "commit": "3191f6e0088eee07c4d8fd24e4d27a40a60d9eb9"
+    },
+    "gulp/gulp.d.ts": {
+      "commit": "3030a4be536b6530c06b80081f1333dc0de4d703"
+    },
+    "node/node.d.ts": {
+      "commit": "3030a4be536b6530c06b80081f1333dc0de4d703"
+    },
+    "orchestrator/orchestrator.d.ts": {
+      "commit": "3030a4be536b6530c06b80081f1333dc0de4d703"
+    },
+    "q/Q.d.ts": {
+      "commit": "3030a4be536b6530c06b80081f1333dc0de4d703"
+    },
+    "gulp-util/gulp-util.d.ts": {
+      "commit": "3030a4be536b6530c06b80081f1333dc0de4d703"
+    },
+    "vinyl/vinyl.d.ts": {
+      "commit": "3030a4be536b6530c06b80081f1333dc0de4d703"
+    },
+    "through2/through2.d.ts": {
+      "commit": "3030a4be536b6530c06b80081f1333dc0de4d703"
+    },
+    "chalk/chalk.d.ts": {
+      "commit": "3030a4be536b6530c06b80081f1333dc0de4d703"
+    },
+    "gulp-debug/gulp-debug.d.ts": {
+      "commit": "3030a4be536b6530c06b80081f1333dc0de4d703"
+    },
+    "gulp-inject/gulp-inject.d.ts": {
+      "commit": "3030a4be536b6530c06b80081f1333dc0de4d703"
+    },
+    "gulp-typescript/gulp-typescript.d.ts": {
+      "commit": "3030a4be536b6530c06b80081f1333dc0de4d703"
+    },
+    "gulp-sourcemaps/gulp-sourcemaps.d.ts": {
+      "commit": "3030a4be536b6530c06b80081f1333dc0de4d703"
+    },
+    "physijs/physijs.d.ts": {
+      "commit": "9f0f926a12026287b5a4a229e5672c01e7549313"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Physijs",
+  "main": [
+    "physi.js",
+    "physijs_worker.js"
+  ],
+  "ignore": [
+    ".jshintrc"
+  ],
+  "dependencies": {
+    "threejs": "r59",
+    "ammo.js": "kripken/ammo.js"
+  },
+  "homepage": "https://github.com/chandlerprall/Physijs",
+  "_release": "7a5372647f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "7a5372647f5af47732e977c153c0d1c2550950a0"
+  },
+  "_source": "git://github.com/chandlerprall/Physijs.git",
+  "_target": "*",
+  "_originalSource": "physijs",
+  "_direct": true
+}

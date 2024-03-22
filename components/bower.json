@@ -1,0 +1,29 @@
+{
+  "name": "comp392-Flatland-Radness",
+  "authors": [
+    "Jason Gunter and George Savchenko"
+  ],
+  "description": "COMP392 Flatland Radness Game for Advanced Graphics",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://github.com/gsavchenko/Flatland-Radness",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*",
+    "dat-gui": "~0.5.1",
+    "stats.js": "*",
+    "Physijs": "physijs#*",
+    "EaselJS": "^0.8.2",
+    "TweenJS": "^0.6.2",
+    "SoundJS": "^0.6.2",
+    "PreloadJS": "^0.6.2"
+  }
+}
