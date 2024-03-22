@@ -24,6 +24,12 @@ Ensure you have the following installed:
 - For C++: CMake and a C++ compiler.
 - For JavaScript/TypeScript: Node.js and npm.
 
+Usage
+Refer to the examples directory within the repository for detailed code examples in C++, JavaScript, and TypeScript. Comprehensive documentation is available in the docs folder, providing in-depth guidance on leveraging the full capabilities of the physics engine in your projects.
+
+Contributing
+Your contributions are welcome! Whether it's adding new features, improving existing ones, or reporting bugs, your input helps make this engine better for everyone. Please refer to the CONTRIBUTING.md file for guidelines on how to contribute effectively.
+
 ### Installation Instructions
 
 #### C++
@@ -39,10 +45,3 @@ cmake . && make
 git clone https://github.com/raineion/Physics-Engine.git
 cd Physics-Engine/js
 npm install
-
-
-Usage
-Refer to the examples directory within the repository for detailed code examples in C++, JavaScript, and TypeScript. Comprehensive documentation is available in the docs folder, providing in-depth guidance on leveraging the full capabilities of the physics engine in your projects.
-
-Contributing
-Your contributions are welcome! Whether it's adding new features, improving existing ones, or reporting bugs, your input helps make this engine better for everyone. Please refer to the CONTRIBUTING.md file for guidelines on how to contribute effectively.
