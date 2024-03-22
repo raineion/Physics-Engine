@@ -38,10 +38,3 @@ Your contributions are welcome! Whether it's adding new features, improving exis
 git clone https://github.com/raineion/Physics-Engine.git
 cd Physics-Engine/cpp
 cmake . && make
-
-#### Typescript
-
-```bash
-git clone https://github.com/raineion/Physics-Engine.git
-cd Physics-Engine/js
-npm install
