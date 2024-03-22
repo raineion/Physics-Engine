@@ -1,0 +1,29 @@
+{
+  "name": "comp392-flatlandradness",
+  "version": "1.0.0",
+  "description": "COMP392-Flatland Radness for Centennial College",
+  "main": "game.js",
+  "dependencies": {
+    "typescript": "^1.8.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^2.3.1",
+    "gulp-debug": "^2.1.2",
+    "gulp-inject": "^3.0.0",
+    "gulp-open": "^1.0.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.10.0",
+    "gulp-util": "^3.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CentennialCollege/COMP392-Flatland-Radness.git"
+  },
+  "author": "Jason Gunter and George Savchenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gsavchenko/Flatland-Radness"
+  },
+  "homepage": "https://github.com/gsavchenko/Flatland-Radness"
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Engine</title>
+    <link rel="stylesheet" href="Content/app.css">
+</head>
+
+<body>
+    <div id="playerStats" style="position:absolute;zIndex:1;width:100;height:100;"></div>
+    <center><div id="message" style="display:none;position:absolute;zIndex:1;"></div></center>
+    <div id="blocker">
+        <div id="instructions">
+            <span id="play">Click to Play</span>
+            <br> (W, A, S, D = Move, SPACE = Jump, MOUSE = Look around);
+        </div>
+    </div>
+    <!-- JavaScript Section -->
+    <script src="Scripts/lib/three.js/build/three.min.js"></script>
+    <script src="Scripts/lib/Physijs/physi.js"></script>
+    <script src="Scripts/lib/dat-gui/build/dat.gui.min.js"></script>
+    <script src="Scripts/lib/stats.js/build/stats.min.js"></script>
+    <script src="Scripts/lib/PreloadJS/lib/preloadjs-0.6.2.min.js"></script>
+    <script src="Scripts/lib/SoundJS/lib/soundjs-0.6.2.min.js"></script>
+
+    <!-- Game Scripts -->
+    <script src="Scripts/objects/keyboardcontrols.js"></script>
+    <script src="scripts/objects/mousecontrols.js"></script>
+    <script src="Scripts/config/screen.js"></script>
+    <script src="Scripts/objects/point.js"></script>
+    <script src="Scripts/objects/gameobject.js"></script>
+    <script src="Scripts/core/game.js"></script>
+</body>
+
+</html>
